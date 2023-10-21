@@ -28,17 +28,17 @@ Please feel free to submit pull requests.
 <br>
 
 ### Citizen Journalists
-Name | Description | Platform |
-|---|---|---|
-| [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | X |
-| [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | X |
-| [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | Instagram |
-| [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | X |
-| [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | Instagram |
-| [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | X |
-| [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | Instagram |
-| [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | X |
-| [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | Instagram |
-| [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | X |
+Name | Description | Languages | Platform |
+|---|---|---|---|
+| [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | EN | X |
+| [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
+| [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
+| [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
+| [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
+| [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
+| [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
+| [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN | X |
+| [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | EN | Instagram |
+| [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
 
 

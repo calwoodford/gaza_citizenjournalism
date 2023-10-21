@@ -7,7 +7,7 @@ Each PR MUST respect the following guidelines:
 
 - That the citizen journalist does not already exist in the list.
 
-- There is exactly one space on both sides between the citizen journalist name and the surrounding pipes. Same should be true for the description and platform fields.
+- There is exactly one space on both sides between the citizen journalist name and the surrounding pipes. Same should be true for the description, languages and platform fields.
 
 - Correct grammar and spelling.
 
@@ -19,5 +19,5 @@ Each PR MUST respect the following guidelines:
 <br>
 
 ```javascript
-| [Citizen Journalist Name](URL) | Description | Platform |
+| [Citizen Journalist Name](URL) | Description | Languages | Platform |
 ```
