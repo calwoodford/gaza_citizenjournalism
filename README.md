@@ -32,6 +32,7 @@ Name | Description | Platform |
 |---|---|---|
 | [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | X |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | X |
+| [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | Instagram |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | X |
