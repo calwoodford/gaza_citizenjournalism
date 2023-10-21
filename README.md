@@ -45,5 +45,6 @@ Name | Description | Languages | Platform |
 | [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN, AR | X |
 | [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | EN | Instagram |
 | [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
+| [Yousef Mema](https://www.instagram.com/joegaza93/) | PICU nurse, social media activist. | EN, AR | Instagram |
 
 
