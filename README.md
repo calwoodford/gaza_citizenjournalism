@@ -31,6 +31,7 @@ Please feel free to submit pull requests.
 Name | Description | Languages | Platform |
 |---|---|---|---|
 | [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | EN | X |
+| [Ahmed Aborjelaa](https://www.instagram.com/aborjelaa/) | Video maker capturing testimonials of people. | AR, EN subtitles | Instagram |
 | [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al Shifaa hospital. | AR, EN subtitles | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
 | [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
