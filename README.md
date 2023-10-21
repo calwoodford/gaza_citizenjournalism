@@ -38,6 +38,7 @@ Name | Description | Languages | Platform |
 | [Belal Khaled](https://www.instagram.com/belalkh/) | Artist posting updates. | AR | Instagram |
 | [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
 | [Doaa Rouqa](https://www.instagram.com/doaaj94/) | Journalist in Gaza. | AR | Instagram |
+| [Fares Anbar](https://www.instagram.com/faressol2/) | Artist posting updates in Gaza. | EN, AR | Instagram |
 | [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
