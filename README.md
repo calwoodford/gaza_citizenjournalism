@@ -24,6 +24,9 @@ Please feel free to submit pull requests.
 <br>
 
 ---
+<br>
+
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcalwoodford%2Fgaza_citizenjournalism?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20GitHub%20repository:&url=https%3A%2F%2Fgithub.com%2Fcalwoodford%2Fgaza_citizenjournalism)
 
 <br>
 
