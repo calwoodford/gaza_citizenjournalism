@@ -31,8 +31,10 @@ Please feel free to submit pull requests.
 Name | Description | Languages | Platform |
 |---|---|---|---|
 | [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | EN | X |
+| [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al Shifaa hospital. | AR, EN subtitles | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
 | [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
+| [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
