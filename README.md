@@ -41,6 +41,7 @@ Name | Description | Languages | Platform |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Mohammad Zaanoun](https://www.instagram.com/m.z.gaza/) | Photojournalist on the ground in Gaza. | EN | Instagram |
+| [Motasem Mortaja](https://www.instagram.com/motasem.mortaja/) | Photo and video journalist. | AR | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
 | [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
 | [Rahaf Shamaly](https://www.instagram.com/rahafmarwan19/) | Artist posting updates in Gaza. | EN | Instagram |
