@@ -31,6 +31,7 @@ Please feel free to submit pull requests.
 Name | Description | Languages | Platform |
 |---|---|---|---|
 | [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | EN | X |
+| [Afaf Ahmed](https://www.instagram.com/afafpall_/) | Journalist posting situational updates. | EN | Instagram |
 | [Ahmed Aborjelaa](https://www.instagram.com/aborjelaa/) | Video maker capturing testimonials of people. | AR, EN subtitles | Instagram |
 | [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al Shifaa hospital. | AR, EN subtitles | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
@@ -40,7 +41,8 @@ Name | Description | Languages | Platform |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
 | [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
-| [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN | X |
+| [Rahaf Shamaly](https://www.instagram.com/rahafmarwan19/) | Artist posting updates in Gaza. | EN | Instagram |
+| [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN, AR | X |
 | [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | EN | Instagram |
 | [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
 
