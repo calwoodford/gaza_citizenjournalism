@@ -34,6 +34,7 @@ Name | Description | Languages | Platform |
 | [Afaf Ahmed](https://www.instagram.com/afafpall_/) | Journalist posting situational updates. | EN | Instagram |
 | [Ahmed Aborjelaa](https://www.instagram.com/aborjelaa/) | Video maker capturing testimonials of people. | AR, EN subtitles | Instagram |
 | [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al-Shifaa Hospital. | AR, EN subtitles | Instagram |
+| [Ali Jadallah](https://www.instagram.com/alijadallah66/) | Photographer capturing stories in Gaza. | EN, AR | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
 | [Belal Khaled](https://www.instagram.com/belalkh/) | Artist posting updates. | AR | Instagram |
 | [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
