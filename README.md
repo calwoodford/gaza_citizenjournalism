@@ -33,8 +33,11 @@ Name | Description | Platform |
 | [Abdalrahim Alfarra](https://x.com/AboodMalfarra) | Citizen in Gaza. | X |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | X |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | X |
+| [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | X |
+| [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | Instagram |
 | [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | X |
-| [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | X
+| [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | Instagram |
+| [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | X |
 
 
