@@ -66,7 +66,7 @@ Name | Description | Languages | Platform |
 
 ## Contributors
 
-<a href="https://github.com/calwoodford/anki_decks/graphs/contributors">
+<a href="https://github.com/calwoodford/gaza_citizenjournalism/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=calwoodford/gaza_citizenjournalism" />
 </a>
 
