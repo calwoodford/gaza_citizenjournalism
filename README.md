@@ -58,6 +58,7 @@ Name | Description | Languages | Platform |
 | [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN, AR | X |
 | [Solmaq Shaheen](https://www.instagram.com/shoroq_shaheen/) | Journalist writing updates. | EN, AR | Instagram |
 | [Wissam Nassar](https://www.instagram.com/wissamgaza/) | Palestinian journalist/photographer. | EN | Instagram |
+| [Yara Eid](https://www.instagram.com/eid_yara/) | Palestinian War Journalist & Human Rights Advocate | EN | Instagram |
 | [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
 | [Yousef Mema](https://www.instagram.com/joegaza93/) | PICU nurse, social media activist. | EN, AR | Instagram |
 
