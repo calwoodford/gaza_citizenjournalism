@@ -62,4 +62,11 @@ Name | Description | Languages | Platform |
 | [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
 | [Yousef Mema](https://www.instagram.com/joegaza93/) | PICU nurse, social media activist. | EN, AR | Instagram |
 
+---
+
+## Contributors
+
+<a href="https://github.com/calwoodford/anki_decks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=calwoodford/gaza_citizenjournalism" />
+</a>
 
