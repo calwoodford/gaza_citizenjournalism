@@ -44,6 +44,7 @@ Name | Description | Languages | Platform |
 | [Doaa Rouqa](https://www.instagram.com/doaaj94/) | Journalist in Gaza. | AR | Instagram |
 | [Fares Anbar](https://www.instagram.com/faressol2/) | Artist posting updates in Gaza. | EN, AR | Instagram |
 | [Fuad Abu Khmash](https://www.instagram.com/fuad.kh.ps_/) | Photographer posting updates in Gaza. | EN, AR | Instagram |
+| [Ghassan Abu Sitta](https://x.com/GhassanAbuSitt1) | Plastic and reconstructive surgeon in Gaza. | EN, AR | X |
 | [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
@@ -51,6 +52,7 @@ Name | Description | Languages | Platform |
 | [Mohammed Al Masri](https://www.instagram.com/mohamed.h.masri) | Photojournalist on the ground in Gaza. | AR | Instagram |
 | [Motasem Mortaja](https://www.instagram.com/motasem.mortaja/) | Photo and video journalist. | AR | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
+| [Omar Ghraieb](https://x.com/Omar_Gaza) | Palestinian citizen. | EN | X |
 | [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
 | [Rahaf Shamaly](https://www.instagram.com/rahafmarwan19/) | Artist posting updates in Gaza. | EN | Instagram |
 | [Roshdi Sarraj](https://www.instagram.com/roshdi.sarraj/) | Filmmaker posting updates in Gaza. | EN | Instagram |
