@@ -38,6 +38,7 @@ Name | Description | Languages | Platform |
 | [Ali Jadallah](https://www.instagram.com/alijadallah66/) | Photographer capturing stories in Gaza. | EN, AR | Instagram |
 | [Atia Darwish](https://www.instagram.com/atiadarwish/) | Palestinian Photojournalist. | AR | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
+| [Ayman Algedi](https://www.instagram.com/aymanalgedi12/) | A Palestinian journalist from Gaza. | EN, AR | Instagram |
 | [Azaiza Motaz](https://x.com/azaizamotaz9) | Palestinian photo and video content producer. | EN, AR | X |
 | [Belal Khaled](https://www.instagram.com/belalkh/) | Artist posting updates. | AR | Instagram |
 | [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
