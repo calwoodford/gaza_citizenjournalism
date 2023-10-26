@@ -15,9 +15,9 @@ Please feel free to submit pull requests.
 
 <br>
 <img src="./images/naaman.jpg" height="200px">
+<p> Michal Naaman, Lord of Colors (in White), 1998, oil and masking-tape on canvas. </p>
 <img src="./images/sliman_mansour.jpg" height="200px">
-<p>Michal Naaman, Lord of Colors (in White), 1998
-Oil and masking-tape on canvas (Left) | Sliman Mansour, Revolution was the Beginning, 2016, oil on canvas (Right). </p>
+<p> Sliman Mansour, revolution was the Beginning, 2016, oil on canvas. </p>
 <br>
 <br>
 
