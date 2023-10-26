@@ -48,6 +48,7 @@ Name | Description | Languages | Platform |
 | [Hani Aburezeq](https://www.instagram.com/hani.aburezeq/) | Palestinian journalist. | EN | Instagram |
 | [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
 | [Maha Hussaini](https://twitter.com/MahaGaza?s=20) | Journalist and human rights activist. | EN, AR | X |
+| [Majdi Fathi](https://www.instagram.com/majdi_fathi/) | Freelance photographer in Gaza-palestine. | EN, AR | Instagram |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Mohammad Zaanoun](https://www.instagram.com/m.z.gaza/) | Photojournalist on the ground in Gaza. | EN | Instagram |
