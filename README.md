@@ -47,6 +47,7 @@ Name | Description | Languages | Platform |
 | [Fuad Abu Khmash](https://www.instagram.com/fuad.kh.ps_/) | Photographer posting updates in Gaza. | EN, AR | Instagram |
 | [Ghassan Abu Sitta](https://x.com/GhassanAbuSitt1) | Plastic and reconstructive surgeon in Gaza. | EN, AR | X |
 | [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
+| [Maha Hussaini](https://twitter.com/MahaGaza?s=20) | Journalist and human rights activist. | EN, AR | X |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Mohammad Zaanoun](https://www.instagram.com/m.z.gaza/) | Photojournalist on the ground in Gaza. | EN | Instagram |
