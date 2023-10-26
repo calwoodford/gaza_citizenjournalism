@@ -44,6 +44,7 @@ Name | Description | Languages | Platform |
 | [Fares Anbar](https://www.instagram.com/faressol2/) | Artist posting updates in Gaza. | EN, AR | Instagram |
 | [Fuad Abu Khmash](https://www.instagram.com/fuad.kh.ps_/) | Photographer posting updates in Gaza. | EN, AR | Instagram |
 | [Ghassan Abu Sitta](https://x.com/GhassanAbuSitt1) | Plastic and reconstructive surgeon in Gaza. | EN, AR | X |
+| [Hani Aburezeq](https://www.instagram.com/hani.aburezeq/) | Palestinian journalist. | EN | Instagram |
 | [Hind Khoudary](https://www.instagram.com/hindkhoudary/) | Palestinian journalist | EN, AR | Instagram |
 | [Maha Hussaini](https://twitter.com/MahaGaza?s=20) | Journalist and human rights activist. | EN, AR | X |
 | [Mariam Barghouti](https://x.com/MariamBarghouti) | Journalist and policy analyst. | EN | X |
