@@ -56,6 +56,7 @@ Name | Description | Languages | Platform |
 | [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
 | [Rahaf Shamaly](https://www.instagram.com/rahafmarwan19/) | Artist posting updates in Gaza. | EN | Instagram |
 | [Roshdi Sarraj](https://www.instagram.com/roshdi.sarraj/) | Filmmaker posting updates in Gaza. | EN | Instagram |
+| [Saher Alghorra](https://www.instagram.com/saher_alghorra/) | Palestinian Photojournalist. | EN | Instagram |
 | [Salma Shurrab](https://www.instagram.com/salma_shurrab/) | Digital content creator in Gaza. | EN | Instagram |
 | [Sara Al Saqqa](https://www.instagram.com/sara__alsaqqa/) | General surgeon, Al-Shifaa Hospital. | AR | Instagram |
 | [Sarah Hassan](https://x.com/Sarah_Hassan94) | English Language Teacher based in the besieged Gaza Strip. | EN, AR | X |
