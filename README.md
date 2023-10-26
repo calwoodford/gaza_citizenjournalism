@@ -51,6 +51,7 @@ Name | Description | Languages | Platform |
 | [Motaz Azaiza](https://www.instagram.com/motaz_azaiza) | Palestinian journalist/photographer. | EN | Instagram |
 | [Mohammad Zaanoun](https://www.instagram.com/m.z.gaza/) | Photojournalist on the ground in Gaza. | EN | Instagram |
 | [Mohammed Al Masri](https://www.instagram.com/mohamed.h.masri) | Photojournalist on the ground in Gaza. | AR | Instagram |
+| [Mohammed Dahlan](https://www.instagram.com/mohammed_dahlan86/) | Journalist from Gaza City. | EN, AR | Instagram |
 | [Motasem Mortaja](https://www.instagram.com/motasem.mortaja/) | Photo and video journalist. | AR | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
 | [Omar Ghraieb](https://x.com/Omar_Gaza) | Palestinian citizen. | EN | X |
