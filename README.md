@@ -41,7 +41,6 @@ Name | Description | Languages | Platform |
 | [Ayman Algedi](https://www.instagram.com/aymanalgedi12/) | A Palestinian journalist from Gaza. | EN, AR | Instagram |
 | [Azaiza Motaz](https://x.com/azaizamotaz9) | Palestinian photo and video content producer. | EN, AR | X |
 | [Belal Khaled](https://www.instagram.com/belalkh/) | Artist posting updates. | AR | Instagram |
-| [Bisan](https://www.instagram.com/wizard_bisan1/) | Film/content maker. On the ground updates. | EN | Instagram |
 | [Doaa Rouqa](https://www.instagram.com/doaaj94/) | Journalist in Gaza. | AR | Instagram |
 | [Fares Anbar](https://www.instagram.com/faressol2/) | Artist posting updates in Gaza. | EN, AR | Instagram |
 | [Fuad Abu Khmash](https://www.instagram.com/fuad.kh.ps_/) | Photographer posting updates in Gaza. | EN, AR | Instagram |
