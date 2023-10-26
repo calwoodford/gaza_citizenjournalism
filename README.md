@@ -36,6 +36,7 @@ Name | Description | Languages | Platform |
 | [Ahmed Aborjelaa](https://www.instagram.com/aborjelaa/) | Video maker capturing testimonials of people. | AR, EN subtitles | Instagram |
 | [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al-Shifaa Hospital. | AR, EN subtitles | Instagram |
 | [Ali Jadallah](https://www.instagram.com/alijadallah66/) | Photographer capturing stories in Gaza. | EN, AR | Instagram |
+| [Atia Darwish](https://www.instagram.com/atiadarwish/) | Palestinian Photojournalist. | AR | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
 | [Azaiza Motaz](https://x.com/azaizamotaz9) | Palestinian photo and video content producer. | EN, AR | X |
 | [Belal Khaled](https://www.instagram.com/belalkh/) | Artist posting updates. | AR | Instagram |
