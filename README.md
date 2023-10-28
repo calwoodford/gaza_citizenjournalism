@@ -1,6 +1,8 @@
 # gaza_citizenjournalism
 A repository of citizen journalists on the ground in Gaza posting information direct from the source on the conflict.
 
+This list relates to active citizen journalists in the Gaza conflict of late 2023.
+
 I have been bothered by the biased and unreliable way the legacy media are reporting on the conflict, therefore, I have decided to make this repository to help amass a collection of citizen journalists to connect the global public with those who are reporting from the ground in Gaza.
 
 Every measure should be taken to ensure every addition to this list is as reliable and accurate as possible. The intention of this repository is to mitigate propaganda/psyops and ensure that truthful information is disseminated to the surface which will in turn allow for those alienated from the conflict to discern the most truthful perspective.
