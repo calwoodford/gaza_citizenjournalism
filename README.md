@@ -59,6 +59,7 @@ Name | Description | Languages | Platform |
 | [Mohammed Dahlan](https://www.instagram.com/mohammed_dahlan86/) | Journalist from Gaza City. | EN, AR | Instagram |
 | [Motasem Mortaja](https://www.instagram.com/motasem.mortaja/) | Photo and video journalist. | AR | Instagram |
 | [Muhammad Smiry](https://x.com/MuhammadSmiry) | Palestinian, born, raised and based in Gaza. Tweets about his every day life in Gaza. | EN | X |
+| [Omar El Qattaa](https://x.com/OmarElQattaa) | Freelance photographer in Gaza, Palestine. | AR | X |
 | [Omar Ghraieb](https://x.com/Omar_Gaza) | Palestinian citizen. | EN | X |
 | [Plestia Alaqad](https://www.instagram.com/byplestia/) | Palestinian journalist. | EN | Instagram |
 | [Rahaf Shamaly](https://www.instagram.com/rahafmarwan19/) | Artist posting updates in Gaza. | EN | Instagram |
