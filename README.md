@@ -73,6 +73,7 @@ Name | Description | Languages | Platform |
 | [Wizard Bisan](https://www.instagram.com/wizard_bisan1/) | Filmmaker. | EN, AR | Instagram |
 | [Yara Eid](https://www.instagram.com/eid_yara/) | Palestinian War Journalist & Human Rights Advocate | EN | Instagram |
 | [Dr. Yara Hawari](https://x.com/yarahawari) | Palestinian writer & senior policy analyst. | EN | X |
+| [Youmna ElSayed](https://x.com/YoumnaElSayed17) | Gaza Strip Correspondent @AJEnglish. | EN | X |
 | [Yousef Mema](https://www.instagram.com/joegaza93/) | PICU nurse, social media activist. | EN, AR | Instagram |
 
 ---
