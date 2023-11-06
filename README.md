@@ -1,5 +1,5 @@
 # gaza_citizenjournalism
-A repository of citizen journalists on the ground in Gaza posting information direct from the source on the conflict.
+A repository of citizen journalists on the ground in Gaza posting information direct from the source of the conflict.
 
 This list relates to active citizen journalists in the Gaza conflict of late 2023.
 
